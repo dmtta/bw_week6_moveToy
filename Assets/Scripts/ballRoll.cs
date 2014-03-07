@@ -16,16 +16,16 @@ public class ballRoll : MonoBehaviour {
 	void FixedUpdate ()
 	{
 				if (Input.GetKey (KeyCode.UpArrow)) {
-						GetComponent<Rigidbody> ().AddRelativeForce (transform.forward * 20f, ForceMode.Acceleration);
+						GetComponent<Rigidbody> ().AddForce (-Vector3.forward * 20f, ForceMode.Acceleration);
 				}
 				if (Input.GetKey (KeyCode.DownArrow)) {
-						GetComponent<Rigidbody> ().AddRelativeForce (-transform.forward * 20f, ForceMode.Acceleration);
+						GetComponent<Rigidbody> ().AddForce (Vector3.forward * 20f, ForceMode.Acceleration);
 				}
 				if (Input.GetKey (KeyCode.LeftArrow)) {
-						GetComponent<Rigidbody> ().AddRelativeForce (-transform.right * 20f, ForceMode.Acceleration);
+						GetComponent<Rigidbody> ().AddForce (Vector3.right * 20f, ForceMode.Acceleration);
 				}
 				if (Input.GetKey (KeyCode.RightArrow)) {
-						GetComponent<Rigidbody> ().AddRelativeForce (transform.right * 20f, ForceMode.Acceleration);
+						GetComponent<Rigidbody> ().AddRelativeForce (-Vector3.right * 20f, ForceMode.Acceleration);
 				}
 				
 		}
