@@ -1,12 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AutoFade.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\MS2\ms_kaleidoscope\Temp\Compiled-Illumin-Bumped.shader">
     <Files>
-      <File FileName="Assets\Scripts\cubeSound.cs" Line="27" Column="1" />
-      <File FileName="Assets\Scripts\cubeScripts.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\AutoFade.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\SceneChange.cs" Line="15" Column="36" />
-      <File FileName="Assets\Scripts\SceneChange2.cs" Line="1" Column="1" />
+      <File FileName="..\..\MS2\ms_kaleidoscope\Temp\Compiled-Illumin-Bumped.shader" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
