@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\MS2\ms_kaleidoscope\Temp\Compiled-Illumin-Bumped.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\OTHERS\aquarium\Assets\Scripts\FishScript.cs">
     <Files>
-      <File FileName="..\..\MS2\ms_kaleidoscope\Temp\Compiled-Illumin-Bumped.shader" Line="1" Column="1" />
+      <File FileName="..\OTHERS\aquarium\Assets\Scripts\FishMother.cs" Line="1" Column="1" />
+      <File FileName="..\OTHERS\aquarium\Assets\Scripts\FishScript.cs" Line="1" Column="1" />
+      <File FileName="..\OTHERS\aquarium\Assets\Scripts\RaycastDemo.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
